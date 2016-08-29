@@ -8,7 +8,7 @@ public class SomeClass {
 	}
         public void upcomingEvents(){
                 System.out.println("These are Upcoming events");
-                System.out.println("Party at Jane's house tomorrow");
+                System.out.println("Dinner at Katie's on Friday");
         }
 	
 	
